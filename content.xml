@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1792111728678</value>
+    <value>1792794540173</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -1009,6 +1009,62 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt7yycqd-3jknvydv0</odePageId>
+      <odeBlockId>block-mvl3tt7u-hbmthh3fv</odeBlockId>
+      <blockName>Sube tu video.</blockName>
+      <iconName>mi-upload_2</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt7yycqd-3jknvydv0</odePageId>
+          <odeBlockId>block-mvl3tt7u-hbmthh3fv</odeBlockId>
+          <odeIdeviceId>idevice-1792768081961-m6wmq7gbc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="text-align: center; margin: 20px 0;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf0QEncPMioVe7pfp0atupEaoYfZe5qWGyYqC2phCabGcfzVg/viewform?usp=header" target="_blank" rel="noopener noreferrer" style="background-color: #673ab7; color: white; padding: 12px 24px; text-size: 16px; font-weight: bold; text-decoration: none; border-radius: 4px; display: inline-block; box-shadow: 0px 3px 5px rgba(0,0,0,0.2); transition: 0.3s;"> ➔ Abrir Formulario para Subir Video </a></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792768081961-m6wmq7gbc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"text-align: center; margin: 20px 0;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf0QEncPMioVe7pfp0atupEaoYfZe5qWGyYqC2phCabGcfzVg/viewform?usp=header\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"background-color: #673ab7; color: white; padding: 12px 24px; text-size: 16px; font-weight: bold; text-decoration: none; border-radius: 4px; display: inline-block; box-shadow: 0px 3px 5px rgba(0,0,0,0.2); transition: 0.3s;\"> ➔ Abrir Formulario para Subir Video </a></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -1882,11 +1938,9 @@
           <odeIdeviceId>idevice-1791944141769-lauub63aj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <div style="width: 100%;">
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0px; text-align: center;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Juego de pictogramas - Emociones." frameborder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSfH1J19eMu8jiWI-xC92psZir32JKCKcxcyddXtPfqjzzmlaw/viewform?usp=header" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
-</div>
+    <div style="text-align: center; margin: 20px 0;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfH1J19eMu8jiWI-xC92psZir32JKCKcxcyddXtPfqjzzmlaw/viewform" target="_blank" rel="noopener noreferrer" style="background-color: #673ab7; color: white; padding: 12px 24px; text-size: 16px; font-weight: bold; text-decoration: none; border-radius: 4px; display: inline-block; box-shadow: 0px 3px 5px rgba(0,0,0,0.2); transition: 0.3s;"> ➔ Abrir Formulario para Subir Dibujo.</a></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791944141769-lauub63aj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0px; text-align: center;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"Juego de pictogramas - Emociones.\" frameborder=\"0\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfH1J19eMu8jiWI-xC92psZir32JKCKcxcyddXtPfqjzzmlaw/viewform?usp=header\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791944141769-lauub63aj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"text-align: center; margin: 20px 0;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfH1J19eMu8jiWI-xC92psZir32JKCKcxcyddXtPfqjzzmlaw/viewform\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"background-color: #673ab7; color: white; padding: 12px 24px; text-size: 16px; font-weight: bold; text-decoration: none; border-radius: 4px; display: inline-block; box-shadow: 0px 3px 5px rgba(0,0,0,0.2); transition: 0.3s;\"> ➔ Abrir Formulario para Subir Dibujo.</a></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2197,17 +2251,17 @@
 </figure>
 </td>
 <td style="width: 49.908%;">
-<figure class="exe-figure exe-media position-center" style="width: 560px;" id="fig_0forvkcvd">
-<figcaption class="figcaption header"><strong>Video educativo: </strong>Identificar las emociones.</figcaption>
-<iframe width="560" height="314" src="https://www.youtube.com/embed/xtcQFO-FlpE" allowfullscreen="allowfullscreen"></iframe>
-<figcaption class="figcaption"><a href="https://www.youtube.com/@rizaldosonline" target="_blank" class="author" rel="noopener">Miguel Angel Rizaldos Lamoca</a>. <a href="https://www.youtube.com/watch?v=xtcQFO-FlpE" target="_blank" class="title" rel="noopener"><em>Video para enseñar a los niños/as a identificar las emociones.</em></a></figcaption>
+<figure class="exe-figure exe-media position-center" style="width: 560px;" id="fig_yfibhbbwe">
+<figcaption class="figcaption header"><strong>Video educativo: Identificar las emociones.</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/WMFT5EIKmjE" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@disneyspain" target="_blank" class="author" rel="noopener">Disney España</a>. <a href="https://www.youtube.com/watch?v=WMFT5EIKmjE" target="_blank" class="title" rel="noopener"><em>Del Revés (Inside Out) | Las emociones de Disney·Pixar | Disney · Pixar Oficial</em></a></figcaption>
 </figure>
 </td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789566524594-c1m73iwou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.054%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Video educativo: </strong>¿Cómo expreso mis emociones y pensamientos?</figcaption>\n<iframe width=\"560\" height=\"280\" src=\"https://www.youtube.com/embed/IQl4739umXc\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@EfydeBelfia\" target=\"_blank\" class=\"author\" rel=\"noopener\">Efy de Belfia</a>. <a href=\"https://www.youtube.com/watch?v=IQl4739umXc\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>¿Cómo expreso mis emociones y pensamientos? 💖 para niños</em></a></figcaption>\n</figure>\n</td>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_0forvkcvd\">\n<figcaption class=\"figcaption header\"><strong>Video educativo: </strong>Identificar las emociones.</figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/xtcQFO-FlpE\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@rizaldosonline\" target=\"_blank\" class=\"author\" rel=\"noopener\">Miguel Angel Rizaldos Lamoca</a>. <a href=\"https://www.youtube.com/watch?v=xtcQFO-FlpE\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Video para enseñar a los niños/as a identificar las emociones.</em></a></figcaption>\n</figure>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789566524594-c1m73iwou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.054%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Video educativo: </strong>¿Cómo expreso mis emociones y pensamientos?</figcaption>\n<iframe width=\"560\" height=\"280\" src=\"https://www.youtube.com/embed/IQl4739umXc\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@EfydeBelfia\" target=\"_blank\" class=\"author\" rel=\"noopener\">Efy de Belfia</a>. <a href=\"https://www.youtube.com/watch?v=IQl4739umXc\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>¿Cómo expreso mis emociones y pensamientos? 💖 para niños</em></a></figcaption>\n</figure>\n</td>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_yfibhbbwe\">\n<figcaption class=\"figcaption header\"><strong>Video educativo: Identificar las emociones.</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/WMFT5EIKmjE\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@disneyspain\" target=\"_blank\" class=\"author\" rel=\"noopener\">Disney España</a>. <a href=\"https://www.youtube.com/watch?v=WMFT5EIKmjE\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Del Revés (Inside Out) | Las emociones de Disney·Pixar | Disney · Pixar Oficial</em></a></figcaption>\n</figure>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2229,8 +2283,8 @@
     <odePagStructure>
       <odePageId>page-mt7z4zbq-6g0ye1y2h</odePageId>
       <odeBlockId>block-mv7imdry-fa02f1psf</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName></iconName>
+      <blockName>Video evaluativo.</blockName>
+      <iconName>mi-video_library</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2258,13 +2312,38 @@
         <odeComponent>
           <odePageId>page-mt7z4zbq-6g0ye1y2h</odePageId>
           <odeBlockId>block-mv7imdry-fa02f1psf</odeBlockId>
+          <odeIdeviceId>idevice-1792789668728-6opjaxtau</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="795" height="690" allow="fullscreen; autoplay; allow-top-navigation-by-user-activation" allowfullscreen="allowfullscreen" frameborder="0" src="https://es.educaplay.com/juego/31048052-identifica_la_emoci.html"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792789668728-6opjaxtau","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"795\" height=\"690\" allow=\"fullscreen; autoplay; allow-top-navigation-by-user-activation\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://es.educaplay.com/juego/31048052-identifica_la_emoci.html\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mt7z4zbq-6g0ye1y2h</odePageId>
+          <odeBlockId>block-mv7imdry-fa02f1psf</odeBlockId>
           <odeIdeviceId>idevice-1791946403121-poadwhc2v</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1791946403121-poadwhc2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsOrder>4</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
@@ -2533,7 +2612,7 @@
       <odeBlockId>block-mu460gep-dnejcrcze</odeBlockId>
       <blockName>Videos Educativos.</blockName>
       <iconName>video</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -2586,6 +2665,112 @@
 </table>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1789567043856-u7btt16i0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100.054%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_xjxddra1z\">\n<figcaption class=\"figcaption header\"><strong>Canción: </strong>Aprende las emociones con los animales.</figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/kY8Pnv1sdeY\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@SolSolCanta\" target=\"_blank\" class=\"author\" rel=\"noopener\">SolSOlCanta</a>. <a href=\"https://www.youtube.com/watch?v=kY8Pnv1sdeY\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Canción de Las Emociones 🎵 Canción Infantil Educativa 🌟 Aprende las Emociones con los Animales</em></a></figcaption>\n</figure>\n</td>\n<td style=\"width: 49.908%;\">\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_su33d9d8t\">\n<figcaption class=\"figcaption header\"><strong>Video educativo: </strong>Autorregulación de las emociones.</figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/0pvUY3pBenA\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@SmileandLearnEspa%C3%B1ol\" target=\"_blank\" class=\"author\" rel=\"noopener\">Smile and Learn - Español</a>. <a href=\"https://www.youtube.com/watch?v=0pvUY3pBenA\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>🧠 GESTIÓN de EMOCIONES para niños 💖 AUTORREGULACIÓN para niños 😊😢</em></a></figcaption>\n</figure>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt7z6nrg-enqvn2ke6</odePageId>
+      <odeBlockId>block-mvliaucx-jezcr45cy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt7z6nrg-enqvn2ke6</odePageId>
+          <odeBlockId>block-mvliaucx-jezcr45cy</odeBlockId>
+          <odeIdeviceId>idevice-1792792391216-a0nfxhfsg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: 'Montserrat', Arial, sans-serif; max-width: 950px; margin: 0 auto; padding: 15px; text-align: center; background-color: #f0f7f4; border-radius: 20px;">
+<h2 style="color: #2c3e50; font-size: 24px; margin-bottom: 5px;">🚦 ¡El Semáforo de las Emociones!</h2>
+<p style="color: #7f8c8d; font-size: 16px; margin-bottom: 25px; font-weight: bold;">Toca cada tarjeta para descubrir qué hacer</p>
+<!-- Caja de tarjetas -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"><!-- TARJETA ROJA: PARAR -->
+<div style="width: 260px; height: 380px; perspective: 1000px;">
+<div style="width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;" onmouseover="this.style.transform='rotateY(180deg)'" onmouseout="this.style.transform='rotateY(0deg)'"><!-- Lado 1 (Pregunta/Problema) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ff4d4d; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;"><span style="font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">🔴</span> <!-- Imagen de Niño Enojado --> <img src="https://www.shutterstock.com/image-vector/little-kid-scream-feel-angry-260nw-2544850885.jpg" alt="Niño Enojado" style="width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;" />
+<h3 style="color: white; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;">1. ¡PARAR! 🛑</h3>
+<p style="color: white; margin: 0; font-size: 14px; font-style: italic;">Siento mucha rabia...</p>
+</div>
+<!-- Lado 2 (Solución Visual) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #ff4d4d; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;">
+<h4 style="color: #ff4d4d; margin: 0; font-size: 18px; font-weight: bold;">¿Qué hago?</h4>
+<!-- Imagen de Respiración / Calma --> <span style="font-size: 70px;">🌬️🧘‍♂️</span>
+<p style="color: #333; font-size: 16px; font-weight: bold; margin: 0;">Cruzo los brazos y respiro como un globo.</p>
+</div>
+</div>
+</div>
+<!-- TARJETA AMARILLA: PENSAR -->
+<div style="width: 260px; height: 380px; perspective: 1000px;">
+<div style="width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;" onmouseover="this.style.transform='rotateY(180deg)'" onmouseout="this.style.transform='rotateY(0deg)'"><!-- Lado 1 (Pregunta/Problema) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffcc00; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;"><span style="font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">🟡</span> <!-- Imagen de Niño Triste/Preocupado --> <img src="https://www.shutterstock.com/image-vector/little-kid-crying-feeling-sad-260nw-2544850899.jpg" alt="Niño Triste" style="width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;" />
+<h3 style="color: #2c3e50; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;">2. PENSAR 🤔</h3>
+<p style="color: #2c3e50; margin: 0; font-size: 14px; font-style: italic;">Estoy triste o asustado...</p>
+</div>
+<!-- Lado 2 (Solución Visual) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #ffcc00; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;">
+<h4 style="color: #f39c12; margin: 0; font-size: 18px; font-weight: bold;">¿Qué hago?</h4>
+<!-- Imagen de Idea / Pensar --> <span style="font-size: 70px;">💡🗣️</span>
+<p style="color: #333; font-size: 16px; font-weight: bold; margin: 0;">Pienso una idea y se la digo a la maestra.</p>
+</div>
+</div>
+</div>
+<!-- TARJETA VERDE: SOLUCIONAR -->
+<div style="width: 260px; height: 380px; perspective: 1000px;">
+<div style="width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;" onmouseover="this.style.transform='rotateY(180deg)'" onmouseout="this.style.transform='rotateY(0deg)'"><!-- Lado 1 (Pregunta/Problema) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #2eb82e; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;"><span style="font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">🟢</span> <!-- Imagen de Compartir Juguetes --> <img src="https://www.shutterstock.com/image-vector/children-sharing-toys-friends-kindness-260nw-2798814191.jpg" alt="Niños Compartiendo" style="width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;" />
+<h3 style="color: white; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;">3. ACTUAR ✅</h3>
+<p style="color: white; margin: 0; font-size: 14px; font-style: italic;">¡Ya estoy feliz!</p>
+</div>
+<!-- Lado 2 (Solución Visual) -->
+<div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #2eb82e; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;">
+<h4 style="color: #2eb82e; margin: 0; font-size: 18px; font-weight: bold;">¿Qué hago?</h4>
+<!-- Imagen de Amigos Jugando --> <span style="font-size: 70px;">🙌🎨</span>
+<p style="color: #333; font-size: 16px; font-weight: bold; margin: 0;">¡Juego feliz con mis amigos!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792792391216-a0nfxhfsg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: 'Montserrat', Arial, sans-serif; max-width: 950px; margin: 0 auto; padding: 15px; text-align: center; background-color: #f0f7f4; border-radius: 20px;\">\n<h2 style=\"color: #2c3e50; font-size: 24px; margin-bottom: 5px;\">🚦 ¡El Semáforo de las Emociones!</h2>\n<p style=\"color: #7f8c8d; font-size: 16px; margin-bottom: 25px; font-weight: bold;\">Toca cada tarjeta para descubrir qué hacer</p>\n<!-- Caja de tarjetas -->\n<div style=\"display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;\"><!-- TARJETA ROJA: PARAR -->\n<div style=\"width: 260px; height: 380px; perspective: 1000px;\">\n<div style=\"width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;\" onmouseover=\"this.style.transform='rotateY(180deg)'\" onmouseout=\"this.style.transform='rotateY(0deg)'\"><!-- Lado 1 (Pregunta/Problema) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ff4d4d; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;\"><span style=\"font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;\">🔴</span> <!-- Imagen de Niño Enojado --> <img src=\"https://www.shutterstock.com/image-vector/little-kid-scream-feel-angry-260nw-2544850885.jpg\" alt=\"Niño Enojado\" style=\"width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;\" />\n<h3 style=\"color: white; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;\">1. ¡PARAR! 🛑</h3>\n<p style=\"color: white; margin: 0; font-size: 14px; font-style: italic;\">Siento mucha rabia...</p>\n</div>\n<!-- Lado 2 (Solución Visual) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #ff4d4d; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;\">\n<h4 style=\"color: #ff4d4d; margin: 0; font-size: 18px; font-weight: bold;\">¿Qué hago?</h4>\n<!-- Imagen de Respiración / Calma --> <span style=\"font-size: 70px;\">🌬️🧘‍♂️</span>\n<p style=\"color: #333; font-size: 16px; font-weight: bold; margin: 0;\">Cruzo los brazos y respiro como un globo.</p>\n</div>\n</div>\n</div>\n<!-- TARJETA AMARILLA: PENSAR -->\n<div style=\"width: 260px; height: 380px; perspective: 1000px;\">\n<div style=\"width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;\" onmouseover=\"this.style.transform='rotateY(180deg)'\" onmouseout=\"this.style.transform='rotateY(0deg)'\"><!-- Lado 1 (Pregunta/Problema) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffcc00; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;\"><span style=\"font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;\">🟡</span> <!-- Imagen de Niño Triste/Preocupado --> <img src=\"https://www.shutterstock.com/image-vector/little-kid-crying-feeling-sad-260nw-2544850899.jpg\" alt=\"Niño Triste\" style=\"width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;\" />\n<h3 style=\"color: #2c3e50; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;\">2. PENSAR 🤔</h3>\n<p style=\"color: #2c3e50; margin: 0; font-size: 14px; font-style: italic;\">Estoy triste o asustado...</p>\n</div>\n<!-- Lado 2 (Solución Visual) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #ffcc00; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;\">\n<h4 style=\"color: #f39c12; margin: 0; font-size: 18px; font-weight: bold;\">¿Qué hago?</h4>\n<!-- Imagen de Idea / Pensar --> <span style=\"font-size: 70px;\">💡🗣️</span>\n<p style=\"color: #333; font-size: 16px; font-weight: bold; margin: 0;\">Pienso una idea y se la digo a la maestra.</p>\n</div>\n</div>\n</div>\n<!-- TARJETA VERDE: SOLUCIONAR -->\n<div style=\"width: 260px; height: 380px; perspective: 1000px;\">\n<div style=\"width: 100%; height: 100%; position: relative; transform-style: preserve-3d; transition: transform 0.6s; cursor: pointer;\" onmouseover=\"this.style.transform='rotateY(180deg)'\" onmouseout=\"this.style.transform='rotateY(0deg)'\"><!-- Lado 1 (Pregunta/Problema) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #2eb82e; border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); box-sizing: border-box;\"><span style=\"font-size: 40px; background: white; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;\">🟢</span> <!-- Imagen de Compartir Juguetes --> <img src=\"https://www.shutterstock.com/image-vector/children-sharing-toys-friends-kindness-260nw-2798814191.jpg\" alt=\"Niños Compartiendo\" style=\"width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 15px; padding: 5px;\" />\n<h3 style=\"color: white; margin: 0; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;\">3. ACTUAR ✅</h3>\n<p style=\"color: white; margin: 0; font-size: 14px; font-style: italic;\">¡Ya estoy feliz!</p>\n</div>\n<!-- Lado 2 (Solución Visual) -->\n<div style=\"position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background-color: #ffffff; border: 4px solid #2eb82e; border-radius: 20px; transform: rotateY(180deg); display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 20px; box-sizing: border-box;\">\n<h4 style=\"color: #2eb82e; margin: 0; font-size: 18px; font-weight: bold;\">¿Qué hago?</h4>\n<!-- Imagen de Amigos Jugando --> <span style=\"font-size: 70px;\">🙌🎨</span>\n<p style=\"color: #333; font-size: 16px; font-weight: bold; margin: 0;\">¡Juego feliz con mis amigos!</p>\n</div>\n</div>\n</div>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2687,12 +2872,12 @@
 <p>Smile and Learn - Español. (2025, 12 de agosto). Las EMOCIONES en el CUERPO para niños 😄 Aprende a reconocer lo que sientes 😢 Recopilación 30 min [Video]. YouTube. <a href="https://www.youtube.com/watch?v=M8cTVRXQk6k">https://www.youtube.com/watch?v=M8cTVRXQk6k</a></p>
 <p>Smile and Learn - Español. (2020, 26 de noviembre). Las emociones básicas para niños - Alegría, tristeza, miedo, ira, asco y sorpresa [Video]. YouTube. <a href="https://youtu.be/qBZSlGo4N1k">https://youtu.be/qBZSlGo4N1k</a></p>
 <p>Efy de Belfia. (2021, 11 de junio). ¿Cómo expreso mis emociones y pensamientos? 💖 para niños [Video]. YouTube. <a href="https://www.youtube.com/watch?v=IQl4739umXc">https://www.youtube.com/watch?v=IQl4739umXc</a></p>
-<p>Rizaldos L, M. A. (2014, 2 de noviembre). Video para enseñar a los niños/as a identificar las emociones. [Video]. YouTube. <a href="https://youtu.be/xtcQFO-FlpE">https://youtu.be/xtcQFO-FlpE</a></p>
+<p>Disney · Pixar Oficial. (17 de julio de 2015). Del Revés (Inside Out) | Las emociones de Disney·Pixar | Disney · Pixar Oficial [Video]. YouTube. <a href="https://www.youtube.com/watch?v=WMFT5EIKmjE">https://www.youtube.com/watch?v=WMFT5EIKmjE</a> </p>
 <p>SolSolCanta. (2024, 25 de julio). Canción de Las Emociones 🎵 Canción Infantil Educativa 🌟 Aprende las Emociones con los Animales [Video]. YouTube. <a href="https://youtu.be/kY8Pnv1sdeY">https://youtu.be/kY8Pnv1sdeY</a></p>
 <p>Smile and Learn - Español. (2024, 5 de junio). 🧠 GESTIÓN de EMOCIONES para niños 💖 AUTORREGULACIÓN para niños 😊😢 [Video]. YouTube. <a href="https://www.youtube.com/watch?v=0pvUY3pBenA">https://www.youtube.com/watch?v=0pvUY3pBenA</a></p>
-<p></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789564464348-wxuwwh0op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cesto de los Tesoros. (2025, 31 de marzo). Las Emociones: ALEGRÍA | CANCIÓN INFANTIL sobre la Alegría [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=9Olz8ci1oJo\">https://www.youtube.com/watch?v=9Olz8ci1oJo</a></p>\n<p>Smile and Learn - Español. (2022, 29 de diciembre). LA ALEGRÍA para niños 😁 ¿Qué es la alegría? 😊 Emociones para niños [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=7zkIdv4XC8A\">https://www.youtube.com/watch?v=7zkIdv4XC8A</a> </p>\n<p>La mamá profesora. (2026, 22 de junio). La Canción de la Tristeza | Aprende a Identificar y Expresar Emociones | Canciones Infantiles [Video]. YouTube. <a href=\"https://youtu.be/mOMdG66kGBM\">https://youtu.be/mOMdG66kGBM</a></p>\n<p>Storybook App. (2024, 27 de agosto). 😢 HOY ME VISITO LA TRISTEZA Cuentos infantiles para cuándo estén tristes [Video]. YouTube. <a href=\"https://youtu.be/I0KqXSGaLD4\">https://youtu.be/I0KqXSGaLD4</a></p>\n<p>Super Simple Español. (2017, 22 de septiembre). Si Estás Feliz | Canciones Infantiles | Super Simple Español [Video]. YouTube. <a href=\"https://youtu.be/lU8zZjBV53M?list=RDlU8zZjBV53M\">https://youtu.be/lU8zZjBV53M?list=RDlU8zZjBV53M</a></p>\n<p>Milo el Ratón de las Emociones. (2023, 11 de agosto). Milo el Ratón de las Emociones [Video]. YouTube. <a href=\"https://youtu.be/6H_XMUmDEIo\">https://youtu.be/6H_XMUmDEIo</a></p>\n<p>El Payaso Plim Plim. (2024, 22 de mayo). ¿Qué Sientes Hoy? 🤗💖 Canciones Infantiles | Plim Plim [Video]. YouTube. <a href=\"https://youtu.be/q0v7VXy-4Rg\">https://youtu.be/q0v7VXy-4Rg</a></p>\n<p>Smile and Learn - Español. (2025, 12 de agosto). Las EMOCIONES en el CUERPO para niños 😄 Aprende a reconocer lo que sientes 😢 Recopilación 30 min [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=M8cTVRXQk6k\">https://www.youtube.com/watch?v=M8cTVRXQk6k</a></p>\n<p>Smile and Learn - Español. (2020, 26 de noviembre). Las emociones básicas para niños - Alegría, tristeza, miedo, ira, asco y sorpresa [Video]. YouTube. <a href=\"https://youtu.be/qBZSlGo4N1k\">https://youtu.be/qBZSlGo4N1k</a></p>\n<p>Efy de Belfia. (2021, 11 de junio). ¿Cómo expreso mis emociones y pensamientos? 💖 para niños [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=IQl4739umXc\">https://www.youtube.com/watch?v=IQl4739umXc</a></p>\n<p>Rizaldos L, M. A. (2014, 2 de noviembre). Video para enseñar a los niños/as a identificar las emociones. [Video]. YouTube. <a href=\"https://youtu.be/xtcQFO-FlpE\">https://youtu.be/xtcQFO-FlpE</a></p>\n<p>SolSolCanta. (2024, 25 de julio). Canción de Las Emociones 🎵 Canción Infantil Educativa 🌟 Aprende las Emociones con los Animales [Video]. YouTube. <a href=\"https://youtu.be/kY8Pnv1sdeY\">https://youtu.be/kY8Pnv1sdeY</a></p>\n<p>Smile and Learn - Español. (2024, 5 de junio). 🧠 GESTIÓN de EMOCIONES para niños 💖 AUTORREGULACIÓN para niños 😊😢 [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=0pvUY3pBenA\">https://www.youtube.com/watch?v=0pvUY3pBenA</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789564464348-wxuwwh0op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cesto de los Tesoros. (2025, 31 de marzo). Las Emociones: ALEGRÍA | CANCIÓN INFANTIL sobre la Alegría [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=9Olz8ci1oJo\">https://www.youtube.com/watch?v=9Olz8ci1oJo</a></p>\n<p>Smile and Learn - Español. (2022, 29 de diciembre). LA ALEGRÍA para niños 😁 ¿Qué es la alegría? 😊 Emociones para niños [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=7zkIdv4XC8A\">https://www.youtube.com/watch?v=7zkIdv4XC8A</a> </p>\n<p>La mamá profesora. (2026, 22 de junio). La Canción de la Tristeza | Aprende a Identificar y Expresar Emociones | Canciones Infantiles [Video]. YouTube. <a href=\"https://youtu.be/mOMdG66kGBM\">https://youtu.be/mOMdG66kGBM</a></p>\n<p>Storybook App. (2024, 27 de agosto). 😢 HOY ME VISITO LA TRISTEZA Cuentos infantiles para cuándo estén tristes [Video]. YouTube. <a href=\"https://youtu.be/I0KqXSGaLD4\">https://youtu.be/I0KqXSGaLD4</a></p>\n<p>Super Simple Español. (2017, 22 de septiembre). Si Estás Feliz | Canciones Infantiles | Super Simple Español [Video]. YouTube. <a href=\"https://youtu.be/lU8zZjBV53M?list=RDlU8zZjBV53M\">https://youtu.be/lU8zZjBV53M?list=RDlU8zZjBV53M</a></p>\n<p>Milo el Ratón de las Emociones. (2023, 11 de agosto). Milo el Ratón de las Emociones [Video]. YouTube. <a href=\"https://youtu.be/6H_XMUmDEIo\">https://youtu.be/6H_XMUmDEIo</a></p>\n<p>El Payaso Plim Plim. (2024, 22 de mayo). ¿Qué Sientes Hoy? 🤗💖 Canciones Infantiles | Plim Plim [Video]. YouTube. <a href=\"https://youtu.be/q0v7VXy-4Rg\">https://youtu.be/q0v7VXy-4Rg</a></p>\n<p>Smile and Learn - Español. (2025, 12 de agosto). Las EMOCIONES en el CUERPO para niños 😄 Aprende a reconocer lo que sientes 😢 Recopilación 30 min [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=M8cTVRXQk6k\">https://www.youtube.com/watch?v=M8cTVRXQk6k</a></p>\n<p>Smile and Learn - Español. (2020, 26 de noviembre). Las emociones básicas para niños - Alegría, tristeza, miedo, ira, asco y sorpresa [Video]. YouTube. <a href=\"https://youtu.be/qBZSlGo4N1k\">https://youtu.be/qBZSlGo4N1k</a></p>\n<p>Efy de Belfia. (2021, 11 de junio). ¿Cómo expreso mis emociones y pensamientos? 💖 para niños [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=IQl4739umXc\">https://www.youtube.com/watch?v=IQl4739umXc</a></p>\n<p>Disney · Pixar Oficial. (17 de julio de 2015). Del Revés (Inside Out) | Las emociones de Disney·Pixar | Disney · Pixar Oficial [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=WMFT5EIKmjE\">https://www.youtube.com/watch?v=WMFT5EIKmjE</a> </p>\n<p>SolSolCanta. (2024, 25 de julio). Canción de Las Emociones 🎵 Canción Infantil Educativa 🌟 Aprende las Emociones con los Animales [Video]. YouTube. <a href=\"https://youtu.be/kY8Pnv1sdeY\">https://youtu.be/kY8Pnv1sdeY</a></p>\n<p>Smile and Learn - Español. (2024, 5 de junio). 🧠 GESTIÓN de EMOCIONES para niños 💖 AUTORREGULACIÓN para niños 😊😢 [Video]. YouTube. <a href=\"https://www.youtube.com/watch?v=0pvUY3pBenA\">https://www.youtube.com/watch?v=0pvUY3pBenA</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
